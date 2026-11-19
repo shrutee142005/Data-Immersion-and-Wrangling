@@ -1,0 +1,11 @@
+### 1. Sales Analysis by Product
+Laptop products generated the highest total sales, followed closely by Mobile and Book. Rice contributed moderate sales revenue, while Chair and Shoes recorded comparatively lower sales. The results indicate that product performance varies significantly, with electronic products contributing strongly to overall revenue.
+
+### 2. Sales Analysis by Category
+Electronics generated the highest revenue among all product categories, significantly outperforming the other categories. Education ranked second, while Grocery and Furniture showed relatively similar sales performance. Fashion contributed the lowest revenue. These results indicate that Electronics is the strongest revenue-generating category in the dataset.
+
+### 3. Sales Analysis by City
+Patna recorded the highest total sales, followed closely by Kolkata, Bengaluru, and Mumbai. Hyderabad and Delhi demonstrated moderate sales performance, whereas Pune and Gaya generated comparatively lower revenue. The Unknown category represents transactions for which city information was unavailable in the original dataset. This analysis highlights geographical differences in sales performance across cities.
+
+### 4. Monthly Sales Trend Analysis
+Monthly sales fluctuated throughout the year. Sales reached their highest level in March 2025, followed by a decline in April and May. A recovery occurred in June, while August and September experienced lower sales. Sales increased again from October to December. The sharp decline in January 2026 may be due to incomplete data for that month and should be interpreted cautiously.
