@@ -1,0 +1,5 @@
+,Order_ID,Order_Date,Customer_ID,Customer_Name,Gender,City,Product,Category
+count,1000,1000,1000,1000,1000,1000,1000,1000
+unique,992,342,947,425,2,9,6,5
+top,ORD100050,2025-04-16,CUST2515,Customer_359,Male,Patna,Mobile,Electronics
+freq,9,10,3,8,511,135,184,354
